@@ -36,8 +36,7 @@
 ## 📚 Документация
 
 - [Users-service](/docs/users-service.md)
-
-[//]: # (- [Events-service]&#40;/docs/users-service.md&#41;)
+- [Events-service](/docs/events-service.md)
 [//]: # (- [Mail-service]&#40;/docs/users-service.md&#41;)
 [//]: # (- [File-service]&#40;/docs/users-service.md&#41;)
 [//]: # (- [Api-Entrypoint]&#40;/docs/users-service.md&#41;)
