@@ -5,6 +5,13 @@
 родители и дети), а также предоставляет ряд функций для организаторов чемпионата (эксперты компетенций, кураторы
 площадок проведения мероприятий, организаторы чемпионата).
 
+## Репозитории с исходным кодом
+- [Users-service](https://github.com/career-seekers/user-service.git)
+- [Events-service](https://github.com/career-seekers/events-service.git)
+- [Mail-service](https://github.com/career-seekers/mail-service.git)
+- [File-service](https://github.com/career-seekers/file-service.git)
+- [Api-entrypoint](https://github.com/career-seekers/api-entrypoint.git)
+
 ## Архитектура / Микросервисы:
 
 **Для реализации проекта была выбрана микросервисная архитектура, так как с самого начала было понятно что придется
